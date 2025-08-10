@@ -2,7 +2,7 @@ Here's a fun bio template for you:
 
 - 👋 Hi, I’m Deepak (@Deepuverma07)  
 - 👀 I’m interested in UX/UI design, web development, and software engineering  
-- 🌱 I’m currently learning advanced Java, Swing, DBMS, and working on a PG Life project  
+- 🌱 I’m currently learning advanced Java, Swing, DBMS, and working on some projects 
 - 💞️ I’m looking to collaborate on creative web and app design projects  
 - 📫 How to reach me: DEEPUVERMA6725@GMAIL.COM 
 - 😄 Pronouns: He/Him  
